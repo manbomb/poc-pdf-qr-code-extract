@@ -1,0 +1,19 @@
+{
+  "name": "poc-pdf-qr-code-extract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-qr-code-scanner": "^0.2.4",
+    "jimp": "^0.22.7",
+    "jsqr": "^1.4.0",
+    "pdf-img-convert": "^1.2.0",
+    "pngjs": "^7.0.0"
+  }
+}
